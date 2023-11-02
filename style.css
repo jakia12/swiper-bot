@@ -94,6 +94,10 @@ img.brand-navbar {
   width: 84px;
   height: 84px;
 }
+
+.title {
+  font-size: 71px;
+}
 @media screen and (max-width: 768px) {
   .grid-all {
     grid-template-columns: 1fr;
