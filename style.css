@@ -1,3 +1,8 @@
+/* body {
+  background-image: url(/images/bg.jpg);
+  background-size: cover;
+} */
+
 .section.hero-home {
   background-image: url(https://assets.website-files.com/6477281…/6477f55…_Space%20Background.svg);
   background-position: 50% 0;
@@ -8,6 +13,10 @@
   overflow: hidden;
   padding-top: 72px;
 }
+/* .section.hero-home {
+  background-color: none;
+  background-image: none;
+} */
 
 .section.hero-home {
   background-image: none;
